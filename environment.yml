@@ -1,7 +1,10 @@
 name: aba # Name of the Conda environment
 
+
 channels:
-  - defaults  # You can add other channels if needed
+  - pytorch
+  - conda-forge
+  - defaults
 
 dependencies:
   - python=3.8  # Python version
