@@ -2,7 +2,7 @@ pretrained model 다운로드 후 파일 실행 wandb 주석처리
 
 터미널 출력 결과
 
-![스크린샷]("./src./screenshot.png")
+![스크린샷](src./screenshot.png)
 
 
 
