@@ -1,3 +1,10 @@
+pretrained model 다운로드 후 파일 실행 wandb 주석처리
+
+터미널 출력 결과
+![스크린샷](./스크린샷 2025-08-29 092123.png)
+
+
+
 <!-- Table of contents -->
 # Table of contents
 - [Table of contents](#table-of-contents)
