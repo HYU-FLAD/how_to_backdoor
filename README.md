@@ -1,4 +1,4 @@
-8월 4주차:
+# 8월 4주차:
 Mnist pretrained model 다운로드 후 파일 실행 wandb 주석처리
 백도어 공격 성공적으로 진행되는 것을 확인
 
@@ -6,11 +6,13 @@ Mnist pretrained model 다운로드 후 파일 실행 wandb 주석처리
 
 ![스크린샷](src/screenshot.png)
 
-9월 2주차 진행 내용:
+# 9월 2주차 진행 내용:
 CIFAR-10 데이터셋을 활용 Distributed Backdoor Attack 및 Irreversible Backdoor Attack) 기법을 시험
 사전 학습된 모델 이용
 
 > python training.py --name cifar10 --params ./exps/run_cifar10__2023.Nov.24/cifar10_fed_100_10_4_0.5_0.05.yaml
+>
+> 
 터미널 출력 결과 성공
 
 결과: 
